@@ -1,18 +1,20 @@
 
-# UIAPduino対応 CP2102N搭載 超小型USBシリアル変換モジュール
+# UIAPduino対応 CP2102N搭載 小型USBシリアル変換モジュール
 
 ## 概要
 
-<img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_top.jpeg" width="240px">
-
-<img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_bottom.jpeg" width="240px">
+<div class="image-row">
+    <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_top.jpeg" width="240px">
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_bottom.jpeg" width="210px">
+</div>
 
 本製品は、Silicon Labs社のCP2102Nを採用した、基板サイズ20mm×12mmの小型USBシリアル変換ボードです。
 USB Type-C接続、USBバスパワー動作に対応しており、TxD、RxDはスルーホール端子から引き出しています。
 
 <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_with_UIAPduino.jpeg" width="240px">
 
-<img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_with_UIAPduino_description.jpeg" width="240px">
+<img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_with_UIAPduino_description.jpeg" width="640px">
 
 本製品は[UIAPduino Pro Micro CH32V003 V1.4](https://www.uiap.jp/uiapduino/pro-micro/ch32v003/v1dot4)のピン配置に対応しており、コンスルーやブレッドボードによりRXD、TXD、GNDをそのまま接続することができます。
 

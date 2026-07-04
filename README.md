@@ -7,20 +7,46 @@
 
 <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_bottom.jpeg" width="240px">
 
-本製品は、Silicon Labs社のCP2102Nを採用した、20mm×12mmの超小型USBシリアル変換ボードです。
+本製品は、Silicon Labs社のCP2102Nを採用した、基板サイズ20mm×12mmの小型USBシリアル変換ボードです。
 USB Type-C接続、USBバスパワー動作に対応しており、TxD、RxDはスルーホール端子から引き出しています。
 
 <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_with_UIAPduino.jpeg" width="240px">
 
-本製品はUIAPduinoのピン配置に対応しており、コンスルーやブレッドボードにRXD、TXD、GNDをそのまま接続することができます。
+<img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_with_UIAPduino_description.jpeg" width="240px">
+
+本製品は[UIAPduino Pro Micro CH32V003 V1.4](https://www.uiap.jp/uiapduino/pro-micro/ch32v003/v1dot4)のピン配置に対応しており、コンスルーやブレッドボードによりRXD、TXD、GNDをそのまま接続することができます。
 
 ## サイズ
 
 <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_size.jpeg" width="240px">
 
-## 使い方
+高さ：5mm（実測値）
+
+## 特徴
+
+- 小型です（基板サイズ20mm×12mm）。
+- Silicon Labs社のCP2102Nを使用。
+- 過電流保護回路搭載。
+- 静電気対策回路搭載。
+- USB Type-Cコネクタ搭載。
+- USBバスパワー動作。
+- 入力5Vトレラント。
+- UIAPduinoにそのまま挿入できるピン配置になっています。
+- RoHS対応です。
+
+## 主な仕様
+
+- 電源電圧Max.：5V
+- IO電圧Max.：3.3V（入力5Vトレラント）
+- ボーレートMin.：300bps
+- ボーレートMax.：3Mbps
+- 受信バッファ：512バイト
+- 送信バッファ：512バイト
+- LED 2個（電源：青、TxD：オレンジ）
 
 ## ピン配置
+
+<img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_pin.jpeg" width="240px">
 
 - p1 ： +5V(VBUS)
 - p2 ： RXD

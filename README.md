@@ -10,6 +10,7 @@
 </div>
 
 Silicon Labs社のCP2102Nを採用した、基板サイズ20mm×12mmの小型USBシリアル変換基板です。
+
 USB Type-C接続、USBバスパワー動作に対応しており、TxD、RxDはスルーホール端子から引き出しています。
 
 <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_with_UIAPduino.jpeg" width="240px">

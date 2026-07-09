@@ -73,4 +73,5 @@ USB Type-C接続、USBバスパワー動作に対応しており、TxD、RxDは�
 
 ## Author
 
+ポジティブフィードバック
 bigben (@bigbenbigben)

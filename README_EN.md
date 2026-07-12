@@ -1,6 +1,6 @@
 # Tiny-USB-Serial-Module : Compact CP2102N USB-to-Serial Converter Module Compatible with UIAPduino
 
-[日本語](README.md) | English
+[日本語](README.md) | [English](README.md)
 
 ## Overview
 

@@ -1,7 +1,7 @@
 
 # UIAPduino対応 CP2102N搭載 小型USBシリアル変換モジュール
 
-[日本語](README.md) | [English](README.md)
+[日本語](README.md) | [English](README_EN.md)
 
 ## 概要
 

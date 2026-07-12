@@ -77,6 +77,8 @@ Operation has been verified by the author on Windows 11 Pro 25H2.
 
 * RXD supports 5 V input, while TXD outputs 3.3 V logic levels. It can generally be used with standard 5 V microcontrollers, but it may not work with devices that strictly require a 5 V logic-high input.
 * Pay attention to the TXD and RXD connections. For a typical UART connection, TXD and RXD must be cross-connected. Connect this module’s TXD to the RXD of the target device, and connect this module’s RXD to the TXD of the target device.
+* As of July 12, 2026, `Serial.available()` does not appear to work on the UIAPduino. The author confirmed operation using the [UIAPSerial](https://github.com/tarosay/sdlog_uiapduino/tree/main/SDLog) library.
+
 
 ## Author
 

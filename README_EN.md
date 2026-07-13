@@ -27,7 +27,10 @@ The pin layout is compatible with the [UIAPduino Pro Micro CH32V003 V1.4](https:
 
 <img src="https://github.com/bigbenbigben/Tiny-USB-Serial-Module/blob/main/Tiny-USB-Serial-Module_size.jpeg" width="240px">
 
+Board size: W20×D12
 Height: 5 mm (measured)
+Weight: 1.3g
+
 
 ## Features
 
